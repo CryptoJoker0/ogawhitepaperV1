@@ -6,5 +6,3 @@
 2. Go to vercel.com
 3. Import project
 4. Deploy
-
-OGAPE — The First Ape On X1
